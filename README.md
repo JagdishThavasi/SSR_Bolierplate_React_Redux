@@ -1,1 +1,1 @@
-# SSR_Bolierplate_React_Redux
+# SSR_React_Route_Redux
